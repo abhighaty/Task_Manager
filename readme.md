@@ -21,7 +21,7 @@ View tasks in a user-friendly interface
     * python -m venv venv
     * venv\Scripts\activate 
     ```
-* Install the dependencies using pip install -r requirements.txt.
+* Install the dependencies using pip install -r requirements.txt(upgrade to latest pip if facing issues installing requirements.txt).
 * Run migrations: python manage.py migrate (creates the db.sqlite3).
 * Start the development server: python manage.py runserver.
 
