@@ -1,5 +1,5 @@
 
-Task Manager
+# Task Manager
 This is a Django-based task management application that helps users manage their tasks. The frontend uses React for the UI, and the backend is powered by Django.
 
 Prerequisites
