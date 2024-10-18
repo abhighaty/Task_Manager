@@ -22,7 +22,6 @@ View tasks in a user-friendly interface
     ```
 * Install the dependencies using pip install -r requirements.txt.
 * Run migrations: python manage.py migrate (creates the db.sqlite3).
-* Optionally create a superuser: python manage.py createsuperuser.
 * Start the development server: python manage.py runserver.
 
 ## Summary of Steps for frontend setup:
@@ -39,3 +38,9 @@ View tasks in a user-friendly interface
     ```npm start```
 
 
+## Additional information:
+
+* Run tests.py under tasks app under taskmanager.
+* To test APIs from swagger - http://127.0.0.1:8000/swagger/
+* To test API - http://127.0.0.1:8000/api/tasks/
+* React webpage view to use the application  - http://localhost:3000/
