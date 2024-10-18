@@ -11,6 +11,7 @@ Git
 Create, update, and delete tasks
 View tasks in a user-friendly interface
 
+* Note - 'taskmanager' folder contains the django app and 'task_app' folder contains the react app
 
 ## Summary of Steps for backend setup:
 
