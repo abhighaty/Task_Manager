@@ -31,8 +31,12 @@ View tasks in a user-friendly interface
     ```cd task_app```
 
 * Install the Necessary Dependencies
+
     ```npm install```
 
 * Start the Development Server
+
     ```npm start```
+
+ 0
 
