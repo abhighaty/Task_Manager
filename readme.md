@@ -26,13 +26,13 @@ View tasks in a user-friendly interface
 * Start the development server: python manage.py runserver.
 
 ## Summary of Steps for frontend setup:
-1. Navigate to the Frontend Directory
+* Navigate to the Frontend Directory
 
     ```cd task_app```
 
-2. Install the Necessary Dependencies
+* Install the Necessary Dependencies
     ```npm install```
 
-3. Start the Development Server
+* Start the Development Server
     ```npm start```
 
